@@ -1,0 +1,8 @@
+firebase init
+
+-- login to google account
+-- create new project on firebase
+-- select project to deploy the website
+-- select the required modules to initialise the project with
+
+firebase deploy
